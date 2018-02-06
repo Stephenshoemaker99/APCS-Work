@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Shoebacca
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shoebacca\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initialName\ initialHealth\ initialSlapDamage\ initialIsUnderwater
+comment1.target=Shoebacca(java.lang.String,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ toggleUnderwater()
+comment3.params=character
+comment3.target=void\ Slap(Character)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

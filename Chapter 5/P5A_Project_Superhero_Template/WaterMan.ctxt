@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WaterMan
+comment1.params=initialName\ initialWaterVolume
+comment1.target=WaterMan(java.lang.String,\ int)
+comment2.params=changeInWaterVolume
+comment2.target=void\ increaseWaterVolume(int)
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+numComments=4

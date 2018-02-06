@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyWatch()
+comment1.params=initialMemory\ initialColor\ initialPrice
+comment1.target=MyWatch(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

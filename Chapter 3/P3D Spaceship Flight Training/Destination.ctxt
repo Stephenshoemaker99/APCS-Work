@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Destination
+comment0.text=\r\n\ This\ is\ the\ destination\ that\ the\ spaceship\ is\ always\ travelling\ towards\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Destination()
+comment2.params=initialX\ initialY
+comment2.target=Destination(int,\ int)
+comment3.params=initialSpaceship
+comment3.target=void\ identifySpaceship(Spaceship)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=boolean\ getIntersects()
+comment7.params=newX
+comment7.target=void\ setX(int)
+comment8.params=newY
+comment8.target=void\ setY(int)
+comment9.params=
+comment9.target=void\ act()
+numComments=10

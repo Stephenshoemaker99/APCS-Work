@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Baddies
+comment0.text=\r\n\r\n\ Write\ a\ description\ of\ class\ Baddies\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initialName\ initialHealth
+comment1.target=Baddies(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment2.text=public\ List<Superhero>\ findSuperheroes()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ //return\ getNeighbors(1000,\ true,\ <Superhero>);\r\n}
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FireGuy
+comment1.params=initialName\ initialHeat
+comment1.target=FireGuy(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getHeat()
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+numComments=4

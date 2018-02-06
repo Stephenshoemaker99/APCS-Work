@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IceHero
+comment1.params=initialName\ initialIceVolume
+comment1.target=IceHero(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getIceVolume()
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+numComments=4

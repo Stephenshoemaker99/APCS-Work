@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyInterger
+comment1.params=
+comment1.target=MyInterger()
+comment2.params=initialNum
+comment2.target=MyInterger(int)
+comment3.params=
+comment3.target=int\ calculateSum()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

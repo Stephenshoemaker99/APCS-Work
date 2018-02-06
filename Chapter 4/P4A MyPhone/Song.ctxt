@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Song
+comment1.params=
+comment1.target=Song()
+comment2.params=initialName\ initialLength
+comment2.target=Song(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ calcMins()
+comment4.params=
+comment4.target=int\ calcSecs()
+comment5.params=
+comment5.target=int\ getLength()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=newLength
+comment7.target=void\ setLength(int)
+comment8.params=newName
+comment8.target=void\ setName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Spaceship
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Spaceship\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Spaceship()
+comment2.params=initialName\ initialSpeed\ initialPoint
+comment2.target=Spaceship(java.lang.String,\ int,\ Destination)
+comment3.params=destination
+comment3.target=void\ turnTowards(Destination)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

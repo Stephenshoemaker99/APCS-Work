@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aeroplane
+comment1.params=
+comment1.target=Aeroplane()
+comment2.params=initialSpeed\ initialAltitude\ initialStop\ initialName
+comment2.target=Aeroplane(int,\ double,\ boolean,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ speed()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
