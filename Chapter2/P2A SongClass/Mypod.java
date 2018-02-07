@@ -9,6 +9,10 @@ public class Mypod
         
          
       System.out.println(dayOfTheWeek);
-      System.out.println( firstSong);   
+      System.out.println( firstSong); 
+      //*afnasklfna f
+      //asdfnASDFNA
+      ///ASDFNJAS;DFN
+      ///ASFJsfasdf  
    }
 }
