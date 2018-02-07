@@ -22,7 +22,6 @@ public class Array2D
                 }
             }
         }
-        
         for(int rowIndex = 0; rowIndex < array2D.length; rowIndex++)
         {
             for(int collumnIndex = 0; collumnIndex < array2D[rowIndex].length; collumnIndex++)
