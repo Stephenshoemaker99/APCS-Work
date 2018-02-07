@@ -2,7 +2,7 @@ public class Array2D
 {
     public static void main(String[] args)
     {
-        int[][] array2D = new int[100][100];
+        int[][] array2D = new int[10][10];
         for(int rowIndex = 0; rowIndex < array2D.length; rowIndex++)
         {
             for(int collumnIndex = 0; collumnIndex < array2D[rowIndex].length; collumnIndex++)
@@ -26,7 +26,7 @@ public class Array2D
         {
             for(int collumnIndex = 0; collumnIndex < array2D[rowIndex].length; collumnIndex++)
             {
-                System.out.print("" + array2D[rowIndex][collumnIndex]+ " ");
+                System.out.print("[" + (int) array2D[rowIndex][collumnIndex] + "]");
             }
             System.out.println();
         }
